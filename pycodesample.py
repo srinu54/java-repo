@@ -1,1 +1,1 @@
-print('hello Iam a Py script!')
+print('hello Iam a Python script!')
